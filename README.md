@@ -6,6 +6,6 @@ To run the subscriber navigate to the directory containing the (cloned) reposito
 
 `export V8_ROOT=/usr`
 
-`export NAN_ROOT=`pwd`/node_modules/nan`
+```export NAN_ROOT=`pwd`/node_modules/nan```
 
 `npm start`
